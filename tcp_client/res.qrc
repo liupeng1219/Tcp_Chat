@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/bold.png</file>
+        <file>images/Cherry.png</file>
+        <file>images/clear.png</file>
+        <file>images/color.png</file>
+        <file>images/dr.png</file>
+        <file>images/italic.png</file>
+        <file>images/jj.png</file>
+        <file>images/lswh.png</file>
+        <file>images/qmnn.png</file>
+        <file>images/qq.png</file>
+        <file>images/save.png</file>
+        <file>images/spqy.png</file>
+        <file>images/under.png</file>
+        <file>images/ymrl.png</file>
+        <file>images/blank.png</file>
+        <file>images/white.png</file>
+        <file>images/login_beijing.jpg</file>
+        <file>images/bird.png</file>
+        <file>images/beijing3.jpg</file>
+        <file>images/beijing4.jpg</file>
+        <file>images/beijing5.jpg</file>
+        <file>images/beijing6.jpg</file>
+        <file>images/login_beijing2.jpg</file>
+        <file>images/chunse1.jpg</file>
+        <file>images/chunse2.jpg</file>
+        <file>images/chunse3.jpg</file>
+        <file>images/chunse4.jpg</file>
+        <file>images/chunse5.jpg</file>
+        <file>images/toux1.jpg</file>
+        <file>images/toux2.jpg</file>
+        <file>images/toux3.jpg</file>
+        <file>images/toux4.jpg</file>
+        <file>images/toux5.jpg</file>
+        <file>images/toux6.jpg</file>
+        <file>images/toux7.jpg</file>
+        <file>images/toux8.jpg</file>
+        <file>images/toux9.jpg</file>
+        <file>images/toux10.jpg</file>
+        <file>images/toux11.jpg</file>
+        <file>images/toux12.jpg</file>
+        <file>images/toux13.jpg</file>
+        <file>images/toux14.jpg</file>
+        <file>images/toux15.jpg</file>
+    </qresource>
+</RCC>
